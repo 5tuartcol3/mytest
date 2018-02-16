@@ -1,2 +1,2 @@
-# mytest
-Uploading a repository
+# This is my readme file
+Hello and welcome to my readme file.
